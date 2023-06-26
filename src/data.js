@@ -50,6 +50,18 @@ const work = [
 		linkProject: 'https://airbauer-githubthemewebsite.vercel.app/',
 		linkGithub: 'https://github.com/real-airbauer/airbauer-githubthemewebsite',
 	},
+	{
+		name: 'Calculator',
+		description: 'A Simple Calculator',
+		stack: [
+			{ icon: icon.SiTypescript, name: 'TypeScript' },
+			{ icon: icon.SiCss3, name: 'CSS' },
+			{ icon: icon.SiJavascript, name: 'Javascript' },
+			{ icon: icon.SiHtml5, name: 'HTML' },
+		],
+		linkProject: 'https://taschenrechner-mu.vercel.app/',
+		linkGithub: 'https://github.com/real-airbauer/Taschenrechner',
+	},
 ]
 
 
