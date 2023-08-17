@@ -7,7 +7,7 @@ const Work = () => {
 	return (
 		<section className='Work section' id='work'>
 			<div className='container'>
-				<h2 className='Work-h2 section-head'>Work.</h2>
+				<h2 className='Work-h2 section-head'>Some of my Public Work. most is privat sorry ❤️</h2>
 				<div className='Work-wrapper'>
 					{work.map((c) => (
 						<Card

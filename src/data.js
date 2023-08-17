@@ -62,6 +62,56 @@ const work = [
 		linkProject: 'https://taschenrechner-mu.vercel.app/',
 		linkGithub: 'https://github.com/real-airbauer/Taschenrechner',
 	},
+	{
+		name: 'GOV ParagonV',
+		description: 'A Website for the GOV of the German FiveM Server ParagonV',
+		stack: [
+			{ icon: icon.SiCss3, name: 'CSS' },
+			{ icon: icon.SiJavascript, name: 'Javascript' },
+			{ icon: icon.SiHtml5, name: 'HTML' },
+		],
+		linkProject: 'https://gov.paragonv.us',
+		linkGithub: 'https://github.com/real-airbauer/gov.paragonv.us',
+	},
+	{
+		name: 'News GOV ParagonV',
+		description: 'A Website for the News from the GOV of the German FiveM Server ParagonV',
+		stack: [
+			{ icon: icon.SiCss3, name: 'CSS' },
+			{ icon: icon.SiJavascript, name: 'Javascript' },
+		],
+		linkProject: 'https://news.paragonv.us',
+		linkGithub: 'https://github.com/real-airbauer/news.paragonv.us',
+	},
+	{
+		name: 'AIR.blog',
+		description: 'My Personal Blog',
+		stack: [
+			{ icon: icon.SiHashnode, name: 'Hashnode' },
+		],
+		linkProject: 'https://blog.airbauer.eu',
+		linkGithub: 'https://github.com/real-airbauer/air.blog',
+	},
+	{
+		name: 'Antifa.ONE',
+		description: 'Website for the Antifacistic Project Antifa.ONE',
+		stack: [
+			{ icon: icon.SiCss3, name: 'CSS' },
+			{ icon: icon.SiJavascript, name: 'Javascript' },
+		],
+		linkProject: 'https://antifa.one',
+		linkGithub: 'https://github.com/real-airbauer/antifa.one',
+	},
+	{
+		name: 'Select Role',
+		description: 'an OLD Forked Discord Custom Roles Bot',
+		stack: [
+			{ icon: icon.SiDiscord, name: 'Discord' },
+			{ icon: icon.SiJavascript, name: 'Javascript' },
+		],
+		linkProject: '',
+		linkGithub: 'https://github.com/real-airbauer/chilllounge-roles',
+	},
 ]
 
 
